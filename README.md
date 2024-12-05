@@ -1,12 +1,4 @@
-# codeofconduct
-code of conduct for Azure Heroes
-Certainly! Here is the Code of Conduct reformatted for inclusion in a GitHub README file:
-
----
-
-# Azure Tech Groups Program - Code of Conduct
-
-## Purpose
+# Code Of Conduct
 
 The Azure Tech Groups Program aims to foster a welcoming, inclusive, and respectful community for Azure enthusiasts and professionals. This Code of Conduct outlines our expectations for participant behavior to ensure a positive experience for everyone involved.
 
